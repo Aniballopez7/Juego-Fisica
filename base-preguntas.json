@@ -1,0 +1,40 @@
+
+[
+    {
+        "categoria": "Fisica",
+        "pregunta": "En que a&ntilde;o nacio Albert Einstein ?",
+        "respuesta": "1903",
+        "incorrecta1": "1900",
+        "incorrecta2": "1920",
+        "incorrecta3": "1899",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/11/albert-einstein-retrato-scaled.jpg?fit=2560%2C1985&quality=50&strip=all&ssl=1",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "imagen": "https://i.ibb.co/pJ8q4JB/image.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    }
+]
